@@ -4,7 +4,7 @@
 ## 1. Introduction
 <p>Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games. In this project, we are going to explore a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter.</p>
 <p>It may not be widely known, but Lego has had its share of ups and downs since its inception in the early 20th century. This includes a particularly rough period in the late 90s. As described in <a href="https://www.businessinsider.com/how-lego-made-a-huge-turnaround-2014-2?r=US&IR=T">this article</a>, Lego was only able to survive due to a successful internal brand (Bionicle) and the introduction of its first licensed series: Star Wars. In the instructions panel are the two questions you will need to answer to complete this project.</p>
-<p>Before diving into our analysis though, let's become familiar with the two datasets that will help you with this project:<br><br></p>
+<p>Before diving into our analysis though, let's become familiar with the two datasets that will help you with this project:<br></p>
 
 <h3 id="letslookatlegosets">Let's look at Lego sets!</h3>
 
@@ -27,15 +27,6 @@
 </ul>
     </div>
 
-<h3 id="skillshowcased">Skills showcased</h3>
-
-This project is showcasing Pandas Data Manipulation skills such as :
-<li>loading data
-<li>validating data types and describing basic statistics 
-<li>cleaning data : na, duplicates, naming, reshaping, etc...
-<li>merging dataframes
-<li>running specific analysis to answer business questions as described in following instructions panel.</li>
-
 ## 2. Project Instructions
 Just like if we were a Data Analyst at Lego working with the Sales/Customer Success teams, we will try to get specific information in preparation for the meeting between the Account Executive responsible for the Star Wars partnership at Lego, and the Star Wars team. Although Star Wars was critical to the survival of the brand, Lego has since introduced a wide variety of licensed sets over subsequent years.
 
@@ -44,3 +35,11 @@ Here are the two questions we would like to answer:
 1. **What percentage of all licensed sets ever released were Star Wars themed?** (will be saved as a variable the_force in the form of an integer - e.g. 25).
 
 2. **In which year was Star Wars not the most popular licensed theme (in terms of number of sets released that year)**? (will be saved as a variable new_era in the form of an integer - e.g. 2012).
+
+## 3. Skills
+This project is showcasing <code>pandas</code> Data Manipulation skills such as :
+<li>loading data
+<li>validating data types and describing basic statistics 
+<li>cleaning data : na, duplicates, naming, reshaping, etc...
+<li>merging dataframes
+<li>running specific analysis to answer business questions as described in following instructions panel.</li>
