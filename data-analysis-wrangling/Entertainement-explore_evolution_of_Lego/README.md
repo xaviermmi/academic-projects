@@ -44,13 +44,12 @@ This project is showcasing <code>pandas</code> Data Manipulation skills such as 
 <li>running specific analysis to answer business questions as described in above instructions panel.</li>
 
 ## 4. Project summary
-The project notebook is organized in 4 parts :
+The project notebook is organized in 5 parts :
 <li>Import library & load data
 <li>Data validation
-<li>Cleaning
-<li>Merging
+<li>Cleaning and merging datasets
 <li>Answering 1st question : proportion of licensed sets that are related to Star Wars
-    <ul>>will be saved as a variable the_force in the form of an integer - e.g. 25.</ul>
+    <ul>>answer is saved as a variable the_force in the form of an integer - e.g. 25.</ul>
 <li>Answering 2nd question : which year was Star Wars NOT the most popular license ?
-    <ul>>will be saved as a variable new_era in the form of an integer - e.g. 2012.</ul>
+    <ul>>answer is saved as a variable new_era in the form of an integer - e.g. 2012.</ul>
 </li>
