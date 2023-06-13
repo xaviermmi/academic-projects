@@ -32,14 +32,25 @@ Just like if we were a Data Analyst at Lego working with the Sales/Customer Succ
 
 Here are the two questions we would like to answer:
 
-1. **What percentage of all licensed sets ever released were Star Wars themed?** (will be saved as a variable the_force in the form of an integer - e.g. 25).
+1. **What percentage of all licensed sets ever released were Star Wars themed?** 
 
-2. **In which year was Star Wars not the most popular licensed theme (in terms of number of sets released that year)**? (will be saved as a variable new_era in the form of an integer - e.g. 2012).
+2. **In which year was Star Wars not the most popular licensed theme (in terms of number of sets released that year)?**
 
 ## 3. Skills
 This project is showcasing <code>pandas</code> Data Manipulation skills such as :
-<li>loading data
 <li>validating data types and describing basic statistics 
 <li>cleaning data : na, duplicates, naming, reshaping, etc...
 <li>merging dataframes
 <li>running specific analysis to answer business questions as described in following instructions panel.</li>
+
+## 4. Project summary
+The project notebook is organized in 4 parts :
+<li>Import library & load data
+<li>Data validation
+<li>Cleaning
+<li>Merging
+<li>Answering 1st question : proportion of licensed sets that are related to Star Wars
+    <ul>>will be saved as a variable the_force in the form of an integer - e.g. 25.</ul>
+<li>Answering 2nd question : which year was Star Wars NOT the most popular license ?
+    <ul>>will be saved as a variable new_era in the form of an integer - e.g. 2012.</ul>
+</li>
