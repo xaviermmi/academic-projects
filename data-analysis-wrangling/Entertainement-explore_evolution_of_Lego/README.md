@@ -41,7 +41,7 @@ This project is showcasing <code>pandas</code> Data Manipulation skills such as 
 <li>validating data types and describing basic statistics 
 <li>cleaning data : na, duplicates, naming, reshaping, etc...
 <li>merging dataframes
-<li>running specific analysis to answer business questions as described in following instructions panel.</li>
+<li>running specific analysis to answer business questions as described in above instructions panel.</li>
 
 ## 4. Project summary
 The project notebook is organized in 4 parts :
