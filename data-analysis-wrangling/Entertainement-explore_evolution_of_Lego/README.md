@@ -1,4 +1,4 @@
-# Entertainement-explore_evolution_of_Lego
+# Exploring the evolution of Lego
 ![yulia-matvienko-kgz9vsP5JCU-unsplash](https://github.com/xaviermmi/academic-projects/assets/122324304/d02e1192-c167-4da7-aa11-f29bace03689)
 
 ## 1. Introduction
