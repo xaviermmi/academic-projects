@@ -1,11 +1,10 @@
 # Retention analysis over AB tests
-(load picture)
 
 ## 1. Introduction
 <p><a href="https://www.facebook.com/cookiecatsgame">Cookie Cats</a> is a hugely popular mobile puzzle game developed by <a href="http://tactile.dk">Tactile Entertainment</a>. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. We're not kidding! Check out this short demo:</p>
-<p><a href="https://youtu.be/GaP5f0jVTWE"><img src="https://assets.datacamp.com/production/project_184/img/cookie_cats_video.jpeg" style="width: 500px"></a></p>
+<p><a href="https://youtu.be/GaP5f0jVTWE"><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/c92981f8-109f-45fa-9058-ba169f5737a9" style="width: 500px"></a></p>
 <p>As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.</p>
-<p><img src="https://assets.datacamp.com/production/project_184/img/cc_gates.png" alt></p>
+<p><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/a24f54a7-93a8-4ceb-a7ec-9ad20d34e931" alt></p>
 
 ## 2. Project instructions
 We've seen the importance of the gates...
@@ -32,7 +31,7 @@ In terms of code, we use :
 </li>
 
 ## 4. Project summary
-The project notebook is organized in 5 parts :
+The project notebook is organized in 6 parts :
 <li>Import library & load data
 <li>Distribution of game rounds
 <li>1-day retention analysis and bootstrapping
