@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 <p><a href="https://www.facebook.com/cookiecatsgame">Cookie Cats</a> is a hugely popular mobile puzzle game developed by <a href="http://tactile.dk">Tactile Entertainment</a>. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats. We're not kidding! Check out this short demo:</p>
-<p><a href="https://youtu.be/GaP5f0jVTWE"><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/c92981f8-109f-45fa-9058-ba169f5737a9" style="width: 500px"></a></p>
+<p><a href="https://youtu.be/GaP5f0jVTWE"><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/d44aaed1-1ab4-493e-83b9-343b53f26685" style="width: 500px"></a></p>
 <p>As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.</p>
-<p><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/a24f54a7-93a8-4ceb-a7ec-9ad20d34e931" alt></p>
+<p><img src="https://github.com/xaviermmi/academic-projects/assets/122324304/ba818649-57bf-4038-8f37-6577a3c28b24" alt></p>
 
 ## 2. Project instructions
 We've seen the importance of the gates...
