@@ -1,5 +1,5 @@
 # Exploring the evolution of Lego
-![yulia-matvienko-kgz9vsP5JCU-unsplash](https://github.com/xaviermmi/academic-projects/assets/122324304/d02e1192-c167-4da7-aa11-f29bace03689)
+![lego1-unsplash](https://github.com/xaviermmi/academic-projects/assets/122324304/166153e6-e5e4-41ec-8173-7e7bda202847)
 
 ## 1. Introduction
 <p>Lego is a household name across the world, supported by a diverse toy line, hit movies, and a series of successful video games. In this project, we are going to explore a key development in the history of Lego: the introduction of licensed sets such as Star Wars, Super Heroes, and Harry Potter.</p>
