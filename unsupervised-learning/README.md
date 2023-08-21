@@ -1,2 +1,2 @@
-unsupervised learning algo : PCA
+unsupervised learning algo : PCA<br>
 dataviz : Bokeh 
