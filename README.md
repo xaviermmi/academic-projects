@@ -11,8 +11,11 @@ I'm presenting here a couple of academic projects focused on:
 <li>data visualization :
   <ul>
   <li>seaborn and pandas subplots
-  <li>time-series</li></ul>  
-<li>machine learning :
+  <li>time-series</li></ul>
+<li>supervised learning :
   <ul>
-  <li>supervized
-  <li>unsupervized</li></ul>
+  <li>Credit card approval</li></ul>
+<li>unsupervised learning :
+  <ul>
+  <li>Benchmark cosmetics by ingredients</li></ul>
+</li></ol>
