@@ -20,3 +20,6 @@ to be completed
 ## 5.Notebook structure
 The structure of this notebook is as follows:</p>
 to be completed
+
+## 6.Result
+![image](https://github.com/xaviermmi/academic-projects/assets/122324304/6b07b19c-3592-4c46-9a0a-da778bd23aa5)
