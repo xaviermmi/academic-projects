@@ -10,7 +10,7 @@ dataviz/
 nlp/
 
 # uncompleted files
-unsupervised-learning/
+unsupervisedlearning/
 
 # deprecated files
 #tbd : myfile.ipynb
