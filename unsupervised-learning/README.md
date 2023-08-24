@@ -1,2 +1,1 @@
-unsupervised learning algo : PCA<br>
-dataviz : Bokeh 
+Some projects involving unsupervised techniques.
