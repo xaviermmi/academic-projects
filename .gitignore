@@ -10,7 +10,7 @@ dataviz/
 nlp/
 
 # uncompleted files
-#tbd
+benchmark_cosmetics_tsne-bokeh.ipynb
 
 # deprecated files
 #tbd : myfile.ipynb
