@@ -1,21 +1,17 @@
 # academic-projects
 
-I'm presenting here a couple of academic projects focused on:
+Projects are segmented by application :
 <ol>
-<li>data analysis and data wrangling for a couple of business :
+<li>data analysis / wrangling for :
   <ul>
-  <li>Entertainment & gaming
+  <li>Entertainment
   <li>Real estate
   <li>Human ressources
   <li>Categorizing types and sentiments over App-markets free apps</li></ul>
-<li>data visualization :
+<li>supervised learning for :
   <ul>
-  <li>seaborn and pandas subplots
-  <li>time-series</li></ul>
-<li>supervised learning :
+  <li>Banking (credit card approval)</li></ul>
+<li>unsupervised learning for :
   <ul>
-  <li>Credit card approval</li></ul>
-<li>unsupervised learning :
-  <ul>
-  <li>Benchmark cosmetics by ingredients</li></ul>
+  <li>Marketing - product segmentation (benchmark cosmetics by ingredients)</li></ul>
 </li></ol>
