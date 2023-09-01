@@ -1,1 +1,0 @@
-Some projects involving unsupervised techniques.
