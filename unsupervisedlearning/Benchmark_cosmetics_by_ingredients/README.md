@@ -1,5 +1,9 @@
 # Benchmarking cosmetics by ingredients
-![to add]
+<figure>
+  <img src="https://github.com/xaviermmi/academic-projects/assets/122324304/ebf73918-2a96-4f61-8a26-2f210c9f0fe0" alt="title">
+  <figcaption>Photo de <a href="https://unsplash.com/fr/@mikelina5?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">michela ampolo</a> sur <a href="https://unsplash.com/fr/photos/7tDGb3HrITg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
+</figure>
+  
 
 ## 1. Introduction
 <p>Whenever I want to try a new cosmetic item, it's so difficult to choose. It's actually more than difficult. It's sometimes scary because new items that I've never tried end up giving me skin trouble. We know the information we need is on the back of each product, but it's really hard to interpret those ingredient lists unless you're a chemist. You may be able to relate to this situation.</p>
@@ -33,4 +37,5 @@ The structure of this notebook is as follows:</p>
 </ul>
 
 ## 6.Result
-![image](https://github.com/xaviermmi/academic-projects/assets/122324304/6b07b19c-3592-4c46-9a0a-da778bd23aa5)
+![example_product_tsne](https://github.com/xaviermmi/academic-projects/assets/122324304/0e9f90c1-4206-455d-b31f-130e73d5dc65)
+
