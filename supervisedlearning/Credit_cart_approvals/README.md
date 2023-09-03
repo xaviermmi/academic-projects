@@ -1,5 +1,9 @@
 # Predicting credict card approvals
-![amex-card-unsplash](https://github.com/xaviermmi/academic-projects/assets/122324304/9fd785d3-e44a-4683-9949-182260fe7fe0)
+<figure style="font-size:12px;height:1000px">
+  <img src="https://github.com/xaviermmi/academic-projects/assets/122324304/9fd785d3-e44a-4683-9949-182260fe7fe0" alt="amex-card-unsplash">
+  <figcaption>Photo by <a href="https://unsplash.com/@cardmapr?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">CardMapr.nl</a> on <a href="https://unsplash.com/photos/i-t4zL1Nqc0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption>
+</figure>
+
 
 ## 1. Introduction
 <p>Commercial banks receive <em>a lot</em> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example.</p>

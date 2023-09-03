@@ -1,5 +1,5 @@
 # Benchmarking cosmetics by ingredients
-<figure>
+<figure style="font-size:12px;height:1000px">
   <img src="https://github.com/xaviermmi/academic-projects/assets/122324304/ebf73918-2a96-4f61-8a26-2f210c9f0fe0" alt="title">
   <figcaption>Photo by <a href="https://unsplash.com/@mikelina5?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">michela ampolo</a> on <a href="https://unsplash.com/photos/7tDGb3HrITg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   </figcaption>
